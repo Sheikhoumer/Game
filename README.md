@@ -1,2 +1,2 @@
-# Game
-How can I play
+# devops 
+How it's work 
